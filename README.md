@@ -1,7 +1,7 @@
 # portfolio
 | key | value |
 | :--- | :----|
-| name | itsminadesu |
+| Name | itsminadesu |
 | Status | CyberAgent 21新卒 |
 | Email | itsmina37@gmail.com |
 | GitHub | [@itsminadesu](https://github.com/itsminadesu) |
