@@ -52,7 +52,7 @@ BERT関連で博報堂と共同研究中
 | :--- | :----|
 | Term | 2020/5 - (現在まで) |
 | Job | エンジニア |
-| Detail | noteの開発(Rails × Nuxt.js × TypeScript) |
+| Detail | noteの開発(Rails × Nuxt.js × Angular.js × TypeScript) |
 
 ## 公開中のサービス
 | key | value |
