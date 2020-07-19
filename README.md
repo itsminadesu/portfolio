@@ -8,8 +8,7 @@
 | Qiita | [@itsminadesu](https://qiita.com/itsminadesu) |
 
 ## 大学
-某理系大学の4年生<br>
-BERT関連で博報堂と共同研究中
+東京理科大学 4年 / 自然言語処理(博報堂との共同研究)
 
 ## インターン
 ### 株式会社インディバル
