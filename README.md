@@ -52,12 +52,3 @@
 | Term | 2020/5 - (現在まで) |
 | Job | エンジニア |
 | Detail | noteの開発(Rails × Nuxt.js × Angular.js × TypeScript) |
-
-## 公開中のサービス
-| key | value |
-| :--- | :----|
-| Name | Nomalog |
-| SiteURL | https://nomalog.jp/ |
-| NoteURL | [ProgateとRails Tutorialを用いてRails歴3か月の初心者がwebサービスを作った話](https://note.com/itsminadesu/n/n70f0d208622e) |
-| Term | 2018/4 - 2018/5(1ヶ月) |
-| Detail | wifi・電源が使えるカフェを探せるノマドカフェ専用投稿サイト |
