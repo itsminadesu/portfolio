@@ -1,14 +1,8 @@
 # portfolio
-| key | value |
-| :--- | :----|
-| Name | itsminadesu |
-| Status | CyberAgent 21新卒 |
-| Email | itsmina37@gmail.com |
-| GitHub | [@itsminadesu](https://github.com/itsminadesu) |
-| Qiita | [@itsminadesu](https://qiita.com/itsminadesu) |
+itsminadesuのポートフォリオ
 
 ## 大学
-東京理科大学 4年 / 自然言語処理(博報堂との共同研究)
+東京理科大学 4年
 
 ## インターン
 ### 株式会社インディバル
@@ -51,4 +45,7 @@
 | :--- | :----|
 | Term | 2020/5 - (現在まで) |
 | Job | エンジニア |
-| Detail | noteの開発(Rails × Nuxt.js × Angular.js × TypeScript) |
+| Detail | noteの開発(Rails × Nuxt × TypeScript) |
+
+## 内定先
+CyberAgent 21新卒予定
