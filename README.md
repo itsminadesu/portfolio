@@ -44,8 +44,6 @@ itsminadesuのポートフォリオ
 | Job | エンジニア |
 | Detail | noteの開発(Rails × Nuxt × TypeScript) |
 
-## 内定先
-CyberAgent 21新卒予定
 ### 株式会社サイバーエージェント
 | key | value |
 | :--- | :----|
