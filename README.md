@@ -40,7 +40,7 @@ itsminadesuのポートフォリオ
 ### note株式会社
 | key | value |
 | :--- | :----|
-| Term | 2020/5 - (現在まで) |
+| Term | 2020/5 - 2021/2(10ヶ月) |
 | Job | エンジニア |
 | Detail | noteの開発(Rails × Nuxt × TypeScript) |
 
