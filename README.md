@@ -1,9 +1,6 @@
 # portfolio
 itsminadesuのポートフォリオ
 
-## 大学
-東京理科大学 4年
-
 ## インターン
 ### 株式会社インディバル
 | key | value |
