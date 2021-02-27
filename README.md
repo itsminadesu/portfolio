@@ -46,3 +46,9 @@ itsminadesuのポートフォリオ
 
 ## 内定先
 CyberAgent 21新卒予定
+### 株式会社サイバーエージェント
+| key | value |
+| :--- | :----|
+| Term | 2021/3(1ヶ月) |
+| Job | エンジニア |
+| Detail | Abemaの開発(Golang) |
