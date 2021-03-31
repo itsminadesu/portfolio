@@ -50,3 +50,6 @@ itsminadesuのポートフォリオ
 | Term | 2021/3(1ヶ月) |
 | Job | エンジニア |
 | Detail | Abemaの開発(Golang) |
+
+## 就職
+2021/4〜 株式会社サイバーエージェント
